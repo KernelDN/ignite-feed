@@ -17,6 +17,9 @@
 .prettierrc text eol=lf
 .prettierignore text eol=lf
 
+LICENSE text eol=lf
+yarn.lock text eol=lf
+
 *.gif -text
 *.ico -text
 *.jpg -text
